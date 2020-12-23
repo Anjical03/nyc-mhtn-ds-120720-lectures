@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Sean Abu Wilson",
+        "birthday": "02/06/1985",
+        "fav_food": "Bread",
+        "birthplace": "Birmingham, AL",
+        "years_in_nyc": 9
+    },
+    {
+        "name": "christa",
+        "birthday": "01/11/1996",
+        "fav_food": "buffalo wings",
+        "birthplace": "new york",
+        "years_in_nyc": 2
+    },
+    {
+        "name": "Dariga Kokenova",
+        "birthdate": "04/19",
+        "favorite food": "Italian",
+        "birthplace": "Kazakhstan",
+        "years_in_nyc": 14
+    },
+    {
+        "name": "Rafael Ferreira",
+        "birthdATE": "10/13/1991",
+        "fav_food": "Linguine con Vongole",
+        "birthplace": "Denver, CO",
+        "years_in_nyc": 5
+    },
+    {
+        "name": "Saad Raees",
+        "birthdate": "05-13-1992",
+        "favorite food": "ice cream",
+        "birthplace": "Karachi,Pakistan",
+        "years_in_NYC": 10
+    },
+    {
+        "name": "Ivan Zakharchuk",
+        "birthdate": "01.27.1988",
+        "favorite food": "Mediterranean",
+        "birthplace": "Kiev",
+        "years_in_nyc": 10
+    },
+    {
+        "name": "Anjanette Vanessa Jia Craynock Santiago Delgado Betancourt Rivera",
+        "birthdate": "10-03-1987",
+        "favorite food": [
+            "Japanese",
+            "Burgers",
+            "Authentic Bacalaitos"
+        ],
+        "birthplace": "Carolina, Puerto Rico",
+        "years_in_nyc": 5
+    },
+    {
+        "name": "Guy Monahan",
+        "birthdate": "07/21/1988",
+        "favorite_food": "Dumplings",
+        "birthplace" "Jersey City, NJ",
+        "years_in_nyc": 31
+    },
+    {
+        "name": "Jonathan Silverman",
+        "birthdate": "08/04/1982",
+        "favorite_food": "pizza",
+        "birthplace": "Brooklyn, NY",
+        "years_in_nyc": 37
+    }
+]
